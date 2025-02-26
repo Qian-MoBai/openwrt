@@ -5,9 +5,13 @@
 #### 本固件基于 openwrt-24.10.0源码编译，外加一些额外的软件包，主要使用源码为下：
 
 https://github.com/openwrt/openwrt
+
 https://github.com/vernesong/OpenClash
+
 https://github.com/jerrykuku/luci-theme-argon
+
 https://github.com/jerrykuku/luci-app-argon-config
+
 https://github.com/sirpdboy/luci-app-poweroffdevice
 
 #### 登录信息
